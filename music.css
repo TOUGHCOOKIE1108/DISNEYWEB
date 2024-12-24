@@ -41,7 +41,7 @@ body {
 #text-container {
     display: flex;
     align-items: center;
-    margin-left: 530px;
+    margin-left: 450px;
 }
 
 .block {
@@ -49,6 +49,7 @@ body {
     margin: 0 10px;
     display: flex;
     align-items: center;
+   
 }
 
 .content {
@@ -314,3 +315,4 @@ body {
     width: 250px;
     text-align: center;
 }
+
